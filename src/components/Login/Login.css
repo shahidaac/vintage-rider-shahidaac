@@ -1,0 +1,13 @@
+.loginInfo {
+  text-align: center;
+  margin-top: 120px;
+  padding-right: 10px;
+  font-weight: 900;
+}
+
+.login-btn {
+  margin: 20px;
+  padding: 10px;
+  background-color: #edeef7;
+  background-image: url(../../images/Map.png);
+}

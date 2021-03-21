@@ -1,0 +1,21 @@
+.mapImage img {
+  height: 500px;
+  width: 700px;
+}
+
+h5 {
+  cursor: grabbing;
+}
+.rideSeek {
+  font-weight: 750;
+}
+ride-btn {
+  font-weight: 800;
+  background-color: #3792dd;
+}
+
+label {
+  padding: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
+}

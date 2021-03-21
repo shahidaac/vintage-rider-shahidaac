@@ -1,0 +1,9 @@
+img {
+  width: 20%;
+}
+
+.everyCard {
+  margin-top: 60px;
+  align-items: center;
+  padding: 5px;
+}

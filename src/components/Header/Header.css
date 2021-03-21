@@ -1,0 +1,24 @@
+.ml-auto.navbar-nav a {
+  font-size: 18px;
+  font-weight: 750;
+  padding: 0 20px;
+  color: #2b2e4a;
+  text-transform: capitalize;
+}
+.navbar-light .navbar-brand {
+  font-weight: 700;
+  font-size: 32px;
+  color: #2b2e4a;
+}
+.riders {
+  margin-top: 60px;
+}
+.h5,
+h5 {
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.body {
+  background-color: #f9f3f3;
+}

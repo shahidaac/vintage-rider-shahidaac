@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Bike",
+    "riderType": "bike",
+    "price": 25,
+    "capacity": 1,
+    "img": "https://i.ibb.co/svgGFnK/bike.png"
+  },
+  {
+    "id": 2,
+    "title": "Car",
+    "riderType": "car",
+    "price": 80,
+    "capacity": 4,
+    "img": "https://i.ibb.co/3dnkxWP/car.png"
+  },
+  {
+    "id": 3,
+    "title": "Bus",
+    "riderType": "bus",
+    "price": 60,
+    "capacity": 36,
+    "img": "https://i.ibb.co/wLfktD8/bus.png"
+  },
+  {
+    "id": 4,
+    "title": "Train",
+    "riderType": "train",
+    "price": 33,
+    "capacity": 950,
+    "img": "https://i.ibb.co/VW4mHwX/train.png"
+  }
+]
